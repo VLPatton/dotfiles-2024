@@ -1,0 +1,9 @@
+
+[user]
+	name = Charlotte Patton
+	email = vl55.patton@gmail.com
+	signingkey = 3E96FCDBE087C3F07CED48816C520168FE44237B!
+[commit]
+	gpgsign = true
+[core]
+	editor = nvim
